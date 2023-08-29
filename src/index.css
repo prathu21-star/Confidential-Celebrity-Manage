@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.panel-title a:after {
+  font-family: Fontawesome;
+  content: '\f077';
+  float: right;
+  font-size: 10px;
+  font-weight: 300;
+}
+
+.panel-title a.collapsed:after {
+  font-family: Fontawesome;
+  content: '\f078';
+}
+
+.panel-title a:after {
+  font-size: 16px !important;
+}
+
+.panel-default > .panel-heading {
+  background-color: #fff;
+  border-radius: 100px;
+}
+
+.panel-group .panel + .panel {
+  margin-top: 20px;
+}
+
+.container {
+  width: 40%;
+}
+
+.panel-title a.collapsed::after {
+  content: '\f107' !important;
+  font-size: 20px !important;
+  position: absolute !important;
+  right: 0 !important;
+}
+
+.panel-title a:after {
+  content: '\f106' !important;
+  font-size: 20px !important;
+  position: absolute !important;
+  right: 0 !important;
+}
+
+.form-label {
+  font-weight: 300 !important;
+  text-align: left !important;
+}
+
+.detail-col {
+  text-align: left;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.actionCon {
+  display: flex;
+  width: 20%;
+  justify-content: space-around;
+  float: right;
+  padding-top: 20px;
+}
+
+.trashIcon i {
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+}
+
+.editIcon i {
+  font-size: 20px;
+  color: blue;
+  cursor: pointer;
+}
+
+.crossIcon i {
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+  font-weight: 100;
+}
+
+.checkIcon i {
+  font-size: 20px;
+  color: greenyellow;
+  cursor: pointer;
+}
+
+textarea {
+  resize: none;
+}
+
+.modal-header {
+  border: 0px !important;
+}
+
+.modal-footer {
+  border: 0px !important;
+}
+
+.modal-title {
+  text-align: left;
+}
+
+.modal-close {
+  position: absolute;
+  top: 18px;
+  right: 15px;
+}
+
+.cancelBtn {
+  border-radius: 15px;
+}
+
+.deleteBtn {
+  border-radius: 15px;
+  background-color: red !important;
+}
+
+.modal {
+  position: absolute;
+  float: left;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.searchIcon {
+  position: absolute;
+  left: 7px;
+  top: 12px;
+}
+
+.has-search {
+  position: relative;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+
+.searchText {
+  height: 40px;
+  border-radius: 12px;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+}
