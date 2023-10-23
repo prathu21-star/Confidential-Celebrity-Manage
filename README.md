@@ -4,37 +4,37 @@
 
 1. Home Page
 
-![Home](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/a546ed8b-777e-4be2-a5b3-b802701da014)
+![image](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/51e17214-2e5c-4848-baad-68602a00ce3f)
 
 
-3. Closed State
 
-   
-![closed state](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/25a1c1da-0780-4497-a057-63721059cc91)
-
-
-4. Open State
+2. Closed State
 
    
-![open state](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/e9d84151-5bb4-433f-8f76-4b2e0ac03c40)
+![image](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/2fbecce0-dcd4-4a3f-8886-1f90d376c395)
 
 
-6. Edit State
 
-   
-![Edit State](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/5a24f1bb-7ac1-444b-9a2a-285d351f0558)
-
-
-8. Delete Dialogue Stat
+3. Open State
 
    
-![Delete dialogue box](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/32de3f96-2d19-4d6a-8b9b-10648de5593d)
+![image](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/76e1580f-e1b7-453e-b522-e0c29caabd6d)
 
 
-10. List View
 
-    
-![List view](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/a10c3329-4f6b-4e6d-bf33-6ca1fb49d960)
+4. Edit State
+
+   
+![image](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/ee39f1fc-2f35-428a-905a-26a34517600b)
+
+
+
+
+5. Delete Dialogue box
+
+![image](https://github.com/prathu21-star/Confidential-Celebrity-Manage/assets/91003319/d6a76f35-9b08-40d9-93a3-4da9dc1fe51d)
+
+
 
 
 
